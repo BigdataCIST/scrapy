@@ -21,6 +21,15 @@ Scrapy là một web framework rất mạnh mẽ trong việc trích xuất dữ
 
 <a name="install"></a>
 ### 1.1. Cài đặt 
+Để có thể cài đặt và sử dụng Scrapy thì ta cần có Python 3 trong máy. Để cài đặt Scrapy thì ta dùng trình pip:
+```
+pip install scrapy
+```
 
 <a name="version"></a>
 ### 1.2. Kiểm tra version 
+Kiểm tra version vừa cài đặt:
+```
+scrapy version
+```
+![version](https://user-images.githubusercontent.com/103992475/164134659-a620b3e4-3b13-4513-b156-56c0bdba5c81.png)
