@@ -48,3 +48,6 @@ scrapy startproject project_name
 ```
 ![start_project](https://user-images.githubusercontent.com/103992475/164135891-402f950b-1232-433f-9931-3c9b6cea4b30.png)
 
+Cấu trúc thư mục của project sau khi tạo:
+
+![structure_scrapy](https://user-images.githubusercontent.com/103992475/164140361-33d93bf5-222d-44b6-9df6-9bab5f5f2ace.png)
