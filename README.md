@@ -1,1 +1,26 @@
 # scrapy
+
+### Mục lục 
+[1. Giới thiệu](#introduction)
+  - [1.1. Cài đặt](#install)
+  - [1.2. Kiểm tra version](#version)
+<a name="introduction"></a>
+##  1. Giới thiệu 
+Scrapy là một web framework rất mạnh mẽ trong việc trích xuất dữ liệu.
+
+* **Ưu điểm:**
+
+  - Hiệu suất tuyệt vời bởi cơ chết bất đồng bộ.
+  - Sử dụng rất ít RAM và CPU.
+  - Tài liệu đầy đủ
+
+* **Nhược điểm:**
+  
+  - Hơi phức tạp cho người mới bắt đầu.
+  - Không lấy được nội dung trang được render bằng js (kiểm tra: Ctrl + u xem nội dung HTML có như hiển thị không).
+
+<a name="install"></a>
+### 1.1. Cài đặt 
+
+<a name="version"></a>
+### 1.2. Kiểm tra version 
