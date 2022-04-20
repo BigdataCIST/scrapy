@@ -4,6 +4,9 @@
 [1. Giới thiệu](#introduction)
   - [1.1. Cài đặt](#install)
   - [1.2. Kiểm tra version](#version)
+
+[2. Bắt đầu project bằng scrapy](#getting_started_project)
+  - [2.1. Tạo một project](#create_a_project)
 <a name="introduction"></a>
 ##  1. Giới thiệu 
 Scrapy là một web framework rất mạnh mẽ trong việc trích xuất dữ liệu.
@@ -34,7 +37,11 @@ scrapy version
 ```
 ![version](https://user-images.githubusercontent.com/103992475/164134659-a620b3e4-3b13-4513-b156-56c0bdba5c81.png)
 
-## Tạo project bằng scrapy 
+<a name="getting_started_project"></a>
+## 2. Bắt đầu project bằng scrapy
+
+<a name="create_a_project"></a>
+### 2.1. Tạo một project
 Trước khi bắt đầu crawl dữ liệu, ta cần tạo một project theo câu lệnh sau:
 ```
 scrapy startproject project_name
