@@ -52,4 +52,4 @@ Cấu trúc thư mục của project sau khi tạo:
 
 ![structure](https://user-images.githubusercontent.com/103992475/164141299-91ca209f-cf1d-43c5-affd-7dbcc6846a97.png)
 
-Trong đó có 3 file đáng lưu ý là `items.py`, `pipelines.py` và `settings.py`. Ngoài ra còn có thư mục spiders nhưng không chứa gì ngoài file `__init__.py`. Trong phần này chúng ta sẽ chủ yếu làm việc với `items.py` và những gì trong thư mục spiders.
+Trong đó có 3 file đáng lưu ý là `items.py`, `pipelines.py` và `settings.py`. Ngoài ra còn có thư mục spiders nhưng không chứa gì ngoài file `__init__.py`. Trong phần này ta sẽ chủ yếu làm việc với `items.py` và những gì trong thư mục spiders.
