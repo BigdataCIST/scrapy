@@ -1,4 +1,4 @@
-# scrapy
+# Scrapy
 
 ### Mục lục 
 [1. Giới thiệu](#introduction)
@@ -33,3 +33,11 @@ Kiểm tra version vừa cài đặt:
 scrapy version
 ```
 ![version](https://user-images.githubusercontent.com/103992475/164134659-a620b3e4-3b13-4513-b156-56c0bdba5c81.png)
+
+## Tạo project bằng scrapy 
+Trước khi bắt đầu crawl dữ liệu, ta cần tạo một project theo câu lệnh sau:
+```
+scrapy startproject project_name
+```
+![start_project](https://user-images.githubusercontent.com/103992475/164135891-402f950b-1232-433f-9931-3c9b6cea4b30.png)
+
